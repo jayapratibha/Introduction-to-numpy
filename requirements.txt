@@ -1,3 +1,5 @@
-numpy==1.19.1
-watermark==2.0.2
-pandas==1.1.0
+numpy 1.19.1
+matplotlib 3.3.1
+pandas 1.1.0
+sklearn 0.23.2
+watermark 2.0.2
